@@ -1,1 +1,17 @@
+.background {
+    width: auto;
+    text-align: center;
+    align-items: center;
+    font-size: 200%;
+    background-color: green;
+}
 
+.fonteinicio {
+    font-size: 80%;
+    text-align: center;
+}
+
+.drone {
+    width: 800px;
+    text-align: center;
+}
