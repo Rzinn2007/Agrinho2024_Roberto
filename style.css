@@ -3,7 +3,7 @@
     text-align: center;
     align-items: center;
     font-size: 200%;
-    background-color: rgb(8, 181, 8);
+    background-color: rgb(204, 218, 204);
 }
 
 .fonteinicio {
@@ -14,4 +14,8 @@
 .drone {
     width: 600px
     text-alig center;
+}
+
+image{
+    font-size: 20%;
 }
